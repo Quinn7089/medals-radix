@@ -20,3 +20,21 @@
   background-color: inherit;
   z-index: 10;
 }
+
+.icon-button-CU {
+ position: absolute;
+  right: 280px;
+}
+.icon-button-CD {
+ position: absolute;
+  right: 225px;
+ 
+}
+.icon-button-MU {
+  position: absolute;
+  right: 150px;
+}
+.icon-button-MD {
+  position: absolute;
+  right: 95px;
+}
